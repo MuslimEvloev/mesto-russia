@@ -1,4 +1,3 @@
-import "../pages/index.css";
 const pageContent = document.querySelector(".page");
 const placeList = document.querySelector(".places__list");
 const formElement = document.querySelector(".popup__form");
